@@ -13,7 +13,7 @@ Aplicação de fundamentos react native na pratica, o usuário pode utilizar par
 
 
 ## Layout mobile
-![Alt text](image.png)
+![Alt text](./assets//Figura-1.png)
 Aplicação feita na trilha ignite da Rocketseat
 
 # Tecnologias utilizadas
@@ -33,11 +33,11 @@ Aplicação feita na trilha ignite da Rocketseat
 - [x] Visualizar item removido
 
 # Layout
-![Tela Inicial adicionar participantes ](./assets/Tela%20adicionar%20de%20participantes.png)
+![Tela Inicial adicionar participantes ](./assets/Figura-2.png)
 
-![Tela de participantes com opção de deletar](./assets/Tela%20de%20usuários%20com%20a%20opção%20de%20deletar%20ou%20canceler.jpg)
+![Tela de participantes com opção de deletar](./assets/Figura-3.jpg)
 
-![Tela de participantes com pop-pup com opção de deletar ou cancelar](./assets/Tela%20de%20participantes%20com%20opções%20deletar%20e%20cancelar.png)
+![Tela de participantes com pop-pup com opção de deletar ou cancelar](./assets/Figura-4.png)
 
 # Como executar o projeto
 
